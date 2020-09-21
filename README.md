@@ -4,23 +4,19 @@ Projeto construído em Flutter para gerenciar os gastos pessoais. Composto por u
 
 ### Lista de gastos + formulário
 
-<img src="/screenshots/material/transaction_list.png" width="49.5%" />
-<img src="/screenshots/material/new_transaction.png" width="49.5%" />
+![transaction-list](/screenshots/material/transaction_list.png "Lista de transações") ![new-transaction](/screenshots/material/new_transaction.png "Nova transação")
 
 ### Calendário
 
-<img src="/screenshots/material/calendar.png" width="49.5%" />
+![calendar](/screenshots/material/calendar.png "Calendário")
 
 ### Modo retrato
 
-<img src="/screenshots/material/landscape_list.png" width="49.5%" />
-<img src="/screenshots/material/landscape_chart.png" width="49.5%" />
+![landscape-list](/screenshots/material/landscape_list.png "Lista em retrato") ![landscape-chart](/screenshots/material/landscape_chart.png "Gráfico em retrato")
 
 ### Cupertino style
 
-<img src="/screenshots/cupertino/list.png" width="49.5%" />
-<img src="/screenshots/cupertino/form.png" width="49.5%" />
-
+![cupertino-list](/screenshots/cupertino/list.png "Lista no Cupertino") ![calendar](/screenshots/cupertino/form.png "Formulário no Cupertino")
 
 ## Como usar?
 
